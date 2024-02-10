@@ -1,18 +1,8 @@
 import React, { useState } from 'react'
 import Heading from '../Global/Heading'
 import Styles from './Contact.module.css'
-import { useMediaQuery } from 'react-responsive'
 
 export default function Contact() {
-
-  // function getValue(e) {
-  //   if (e.target.value) {
-
-  //   }
-
-  // }
-
-
   const [inputText, setInputText] = useState("")
   const [inputAge, setInputAge] = useState("")
   const [inputEmail, setInputEmail] = useState("")

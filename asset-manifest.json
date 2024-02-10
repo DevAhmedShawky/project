@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project/static/css/main.8b435dc5.css",
-    "main.js": "/project/static/js/main.f9c0ba28.js",
+    "main.js": "/project/static/js/main.3da220c4.js",
     "static/js/592.7c1c7719.chunk.js": "/project/static/js/592.7c1c7719.chunk.js",
     "static/media/fa-solid-900.ttf": "/project/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/ripped-jean-shorts-with-tag-mockup_53876-65769.jpg": "/project/static/media/ripped-jean-shorts-with-tag-mockup_53876-65769.76a55e6b19814c99044f.jpg",
@@ -20,11 +20,11 @@
     "static/media/fa-v4compatibility.woff2": "/project/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/project/index.html",
     "main.8b435dc5.css.map": "/project/static/css/main.8b435dc5.css.map",
-    "main.f9c0ba28.js.map": "/project/static/js/main.f9c0ba28.js.map",
+    "main.3da220c4.js.map": "/project/static/js/main.3da220c4.js.map",
     "592.7c1c7719.chunk.js.map": "/project/static/js/592.7c1c7719.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b435dc5.css",
-    "static/js/main.f9c0ba28.js"
+    "static/js/main.3da220c4.js"
   ]
 }
